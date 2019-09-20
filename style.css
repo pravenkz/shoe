@@ -1,0 +1,112 @@
+#title{
+  text-align: center;
+  background-color: #ACACAC;
+}
+
+.btn{
+  margin: 5px 10px;
+}
+.fa{
+  margin-right: 10px;
+}
+.navbar{
+  padding-bottom: 550px;
+}
+.all-image{
+  width:500px;
+  height: 300px;
+
+}
+.first{
+  margin-top: 50px;
+}
+.navbar-brand{
+
+ font-size: 100px;
+  font-weight: bold;
+}
+.navbar-brand{
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+
+#features{
+  text-align: center;
+  padding: 5% 10%;
+}
+.icon{
+  color:#538697;
+  margin:1rem;
+}
+.icon:hover{
+  color: #38DAE3;
+}
+ #products{
+   text-align: center;
+   background-color:#ACACAC;
+ }
+ .product-images{
+   width: 200px;
+   border-radius: 50%;
+ }
+.product-text{
+  margin: 10px 200px;
+}
+.collab{
+  text-align: left;
+  margin: 50px auto 100px auto;
+}
+#collabration{
+padding: 0 200px;
+}
+.left{
+  float: left;
+}
+.right{
+  float:right;
+}
+.lefty{
+  float:left;
+  width:250px;
+  height:150px;
+  border-radius: 50%;
+}
+
+#company{
+  text-align: center;
+  padding: 5% 8%;
+  background-color:#ACACAC;
+}
+.cx{
+  margin-bottom: 50px;
+}
+#pricing{
+  text-align: center;
+  padding: 5% 5%;
+}
+#footer{
+  text-align: center;
+  padding: 5% 35%;
+  background-color:#ACACAC;
+    text-decoration: none;
+
+
+}
+.tx{
+  color: #7AEFF5;
+
+}
+.tx:hover{
+  color: lightblue;
+}
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+}
+h2{
+  font-family: 'Neucha', cursive;
+}
+h3{
+  font-family: 'Philosopher', sans-serif;
+}
